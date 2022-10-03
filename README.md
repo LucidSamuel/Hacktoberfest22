@@ -109,7 +109,7 @@ Name the file `hello_world_yourusername.xx`. e.g., `hello_world_lucidsamuel.js` 
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
 
-Here is my `hello_world` example: [hello_world_lucdsamuel.js](https://github.com/lucidsamuel/hacktoberfest/blob/master/scripts/hello_world_lucidsamuel.js)
+Here is my `hello_world` example: [hello_world_lucdsamuel.js](https://github.com/LucidSamuel/Hacktoberfest22/blob/master/scripts/hello_world_lucidsamuel.js)
 
 ## Reference links
 Here is a great tutorial for creating your first pull request by [Roshan Jossey](https://github.com/Roshanjossey):
