@@ -15,3 +15,10 @@
 - Bio: Front-end Developer
 
 - GitHub: [CeeKay](https://github.com/CeeKayTech)
+
+#### Name: [PRATIK BUTANI](https://github.com/pratikbutani)
+
+- Place: India
+- Interests: Love to code, Play cricket
+- Development: Flutter Developer
+- 
