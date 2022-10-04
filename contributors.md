@@ -7,3 +7,11 @@
  - Place: India , Haryana
  - Bio: Software engineer, building great developer experiences at Dfinity 
  - GitHub: [Deepin Mittal](https://github.com/deepin1506)
+
+#### Name: [MONDAY KELVIN](https://github.com/CeeKayTech)
+
+- Place: Edo, Nigeria
+
+- Bio: Front-end Developer
+
+- GitHub: [CeeKay](https://github.com/CeeKayTech)
