@@ -21,4 +21,3 @@
 - Place: India
 - Interests: Love to code, Play cricket
 - Development: Flutter Developer
-- 
