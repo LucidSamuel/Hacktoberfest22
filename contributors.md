@@ -7,3 +7,8 @@
  - Place: India , Haryana
  - Bio: Software engineer, building great developer experiences at Dfinity 
  - GitHub: [Deepin Mittal](https://github.com/deepin1506)
+
+#### Name: [RAJDEEP DAS](https://github.com/rajdeepdas2000)
+ - Place: India , West Bengal
+ - Bio: Computer Science student, Master of Engineering at BITS-PILANI, Goa   
+ - GitHub: [Rajdeep Das](https://github.com/rajdeepdas2000)
