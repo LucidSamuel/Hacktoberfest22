@@ -3,6 +3,12 @@
  - Bio: Software engineer, building great developer experiences at Dfinity 
  - GitHub: [Lucid Samuel](https://github.com/lucidsamuel)
 
+
+#### Name: [NIKITA JAIN](https://github.com/nikita812)
+ - Place: India, UP
+ - Bio: Web developer, PHP symfony
+ - GitHub: [Nikita Jain](https://github.com/nikita812)
+
 #### Name: [DEEPIN MITTAL](https://github.com/deepin1506)
  - Place: India , Haryana
  - Bio: Software engineer, building great developer experiences at Dfinity 
@@ -22,3 +28,4 @@
 - Place: Kolkata, West Bengal, India
 - Bio: Computer Science student, Master of Engineering at Birla Institute of Technology and Science, Pilani – Goa
 - GitHub: [Rajdeep Das](https://github.com/rajdeepdas2000)
+
