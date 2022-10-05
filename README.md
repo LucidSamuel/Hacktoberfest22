@@ -1,4 +1,4 @@
-# 🎃 HacktoberFest Starter Project 🎃
+# 🎃 HacktoberFest Starter Project 
 
 This project can be used to make your first contribution to an open source project on GitHub. Before you do the real thing, practice making your first pull request to a public repository!
 
