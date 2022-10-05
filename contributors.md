@@ -15,3 +15,10 @@
 - Bio: Front-end Developer
 
 - GitHub: [CeeKay](https://github.com/CeeKayTech)
+
+
+
+#### Name: [Rajdeep Das](https://github.com/rajdeepdas2000)
+- Place: Kolkata, West Bengal, India
+- Bio: Computer Science student, Master of Engineering at Birla Institute of Technology and Science, Pilani – Goa
+- GitHub: [Rajdeep Das](https://github.com/rajdeepdas2000)
