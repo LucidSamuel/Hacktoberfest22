@@ -21,3 +21,8 @@
 - Place:  Pune, Maharastra, India
 - Bio: Student
 - GitHub: [kaushalrr006](https://github.com/Kaushalrr006)
+
+#### Name: [Rajdeep Das](https://github.com/rajdeepdas2000)
+- Place: Kolkata, West Bengal, India
+- Bio: Computer Science student, Master of Engineering at Birla Institute of Technology and Science, Pilani – Goa
+- GitHub: [Rajdeep Das](https://github.com/rajdeepdas2000)
