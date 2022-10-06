@@ -26,3 +26,8 @@
 - Place: Kolkata, West Bengal, India
 - Bio: Computer Science student, Master of Engineering at Birla Institute of Technology and Science, Pilani – Goa
 - GitHub: [Rajdeep Das](https://github.com/rajdeepdas2000)
+
+#### Name: [Varghese Babu](https://github.com/varghese-babu)
+- Place: Chalakudy, Kerala, India
+- Bio: Computer Science student, Mar Athanasius College of Engineering, Kothamangalam, Kerala
+- GitHub: [Varghese Babu](https://github.com/varghese-babu)
