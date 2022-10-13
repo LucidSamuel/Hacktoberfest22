@@ -17,6 +17,12 @@
 
 - GitHub: [CeeKay](https://github.com/CeeKayTech)
 
+#### Name: [PRATIK BUTANI](https://github.com/pratikbutani)
+
+- Place: India
+- Interests: Love to code, Play cricket
+- Development: Flutter Developer
+
 #### Name: [Kaushal Ratnapagol](https://github.com/Kaushalrr006)
 - Place:  Pune, Maharastra, India
 - Bio: Student
