@@ -11,6 +11,9 @@ This repository is open to all members of the GitHub community. Any member may c
 
 ## What is Hacktoberfest?
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/), [Docker](https://docker.com/) and, [Appwrite](https://appwrite.io/) to get people involved in [Open Source](https://github.com/open-source). 
+It is an open source festival celebrated during October every year, encouraging people worldwide to actively participate and contribute to participating oss
+In fact, Hacktoberfest 2021 had attracted 169,886 participants and 116,361 participating open source repositories, representing 135 countries.
+Each of the following public repositories on GitHub will have a list of issues listed. You can choose to work on these issues based on your skills and expertise in solving them .
 Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
 [https://hacktoberfest.com/](https://hacktoberfest.com/)
